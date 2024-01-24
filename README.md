@@ -4,3 +4,4 @@
 
 - Визуализация
 - Power Query
+- Power Pivot
